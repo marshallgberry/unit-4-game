@@ -1,0 +1,104 @@
+body {
+	background-image: url("../images/mochaGrunge.png");
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	color: #363535;
+}
+
+
+.navbar {
+	height: 80px;
+	background-image: url("../images/cloudy-day.png");
+}
+h1{
+    font-family: 'Varela Round', sans-serif;
+	font-size: 70px;
+	color: #363535;
+    margin-left: 30%;
+}
+h2{
+    font-size: 30px;
+    font-style: bold;
+    text-decoration: underline;
+    margin-top: 10px;
+}
+ul {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 18px;
+    margin-top: 10px;
+}
+#win-lose-font{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 20px;
+	text-decoration: underline;
+}
+.container{
+	width: 968px;
+}
+.row {
+	margin: 10px;
+}
+#left-side{
+	background-image: url("../images/cloudy-day.png");
+	font-size: 24px;
+	font-style: bold;
+	border: 3px solid #363535;
+    text-align: left;
+    
+}
+#right-side{
+    position:relative;
+    margin-top: 3.5%;
+}
+#player-stats{
+    font-family: 'Varela Round', sans-serif;
+    border: 15px solid #363535;
+    padding: 20px;
+    font-size: 30px;
+    color: hotpink;
+}
+#winningNumber{
+	height: 200px;
+	background-image: url("../images/winning.png");
+    font-size: 100px;
+    color: hotpink;
+	padding: 50px;
+    padding-left: 125px;
+    border: 3px solid #363535;
+}
+#puppyTotal{
+	height: 200px;
+	background-image: url("../images/usertotal.png");
+    font-size: 100px;
+    color: hotpink;
+	padding: 40px;
+    padding-left: 125px;
+    border: 3px solid #363535;
+}
+
+#golden{
+    width: 100%;
+    height: auto;
+}
+
+#poodle{
+    width: 100%;
+    height: auto;
+}
+
+#bulldog{
+    width: 100%;
+    height: auto;
+}
+
+#sheepdog{
+    width: 95%;
+    height: auto;
+}
+
+.foot {
+	background-image: url("../images/cloudy-day.png"); 
+    height: 30px;
+    font-size: 20px;
+	color: #363535;
+    text-align: center;
+}
